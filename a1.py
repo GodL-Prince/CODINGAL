@@ -39,7 +39,7 @@ def provide_recommendations():
         else:
             print(Fore.RED + "Sorry, I didn't understand that. Please choose from beaches, mountains, or cities.")
             provide_recommendations()  # Recursive call for valid input
-# Offer packing tips based on user’s destination and duration
+ # Offer packing tips based on user’s destination and duration
 
  # Tell a random joke
 
